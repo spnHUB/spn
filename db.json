@@ -1,0 +1,109 @@
+{
+  "company": [
+    {
+      "id": 1,
+      "name": "Sam",
+      "email": "sam@test.com",
+      "role": "associate",
+      "isactive": true
+    },
+    {
+      "id": 2,
+      "name": "jenna",
+      "email": "jenna@test.com",
+      "role": "frontend developer",
+      "isactive": true
+    },
+    {
+      "id": 3,
+      "name": "ashoke",
+      "email": "ashoke@test.com",
+      "role": "software tester",
+      "isactive": true
+    },
+    {
+      "id": 4,
+      "name": "sudipto",
+      "email": "sudipto@test.com",
+      "role": "Team lead",
+      "isactive": true
+    },
+    {
+      "id": 5,
+      "name": "maddy",
+      "email": "maddy@test.com",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": 6,
+      "name": "verma",
+      "email": "verma@test.com",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": 7,
+      "name": "henry",
+      "email": "henry@test.com",
+      "role": "project manager",
+      "isactive": true
+    },
+    {
+      "id": 8,
+      "name": "john",
+      "email": "john@test.com",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": 10,
+      "name": "emily",
+      "email": "emily@test.com",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": 11,
+      "name": "jonathan",
+      "email": "johny@test.com",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": 12,
+      "name": "samson",
+      "email": "samson@test.com",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": 13,
+      "name": "mrinmoy",
+      "email": "mronmoy@test.com",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": 14,
+      "name": "jennifer",
+      "email": "jennifer@test.com",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": 15,
+      "name": "vijay",
+      "email": "vijay@test.com",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "name": "sam ",
+      "email": "sam@gmail.com",
+      "role": "team lead",
+      "isactive": true,
+      "id": 16
+    }
+  ]
+}
