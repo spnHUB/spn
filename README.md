@@ -2,7 +2,7 @@
 
 # simple user management webapp
 
-I have developed this project in Angular, a frontend framework, this app can be used to manage and maintain employee data of an organizaition.Alongside of making in simple i have also made it user friendly.
+I have developed this project in Angular, a frontend framework, this app can be used to manage and maintain employee data of an organizaition. Alongside of making in simple i have also made it user friendly.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
 
@@ -17,6 +17,10 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Run
+
+Run 'ng serve' to build and start the development server of the project.
 
 ## Running unit tests
 
