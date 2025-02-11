@@ -1,6 +1,6 @@
 
 
-# simple user management webapp
+# Simple User Management Web Application
 
 I have developed this project in Angular, a frontend framework, this app can be used to manage and maintain employee data of an organizaition. Alongside of making in simple i have also made it user friendly.
 
